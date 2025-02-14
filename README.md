@@ -54,7 +54,7 @@ pip install nltk sklearn pycaret seaborn matplotlib pandas
 ## Files
 
 - **spam_detection.ipynb**: Main Jupyter notebook containing the entire workflow of data exploration, preprocessing, model training, and evaluation.
-- **requirements.txt**: List of Python dependencies.
+- **spam.csv**: Dataset
 
 ## Instructions
 
